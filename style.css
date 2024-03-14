@@ -1,3 +1,33 @@
 body{background-color: lightpink;
 color: deeppink;
 }
+h1{
+    font-family: "Jim Nightshade", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 0, 115);
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: mediumvioletred;
+}
+h2{
+    font-size: 1.55em;
+    text-align: center;
+}
+
+a{
+   font-size: 1.5em; 
+}
+#tit1{
+    color: rgb(255, 0, 115);
+}
+
+/**criando uma class no css**/
+
+.pink{
+color: darkmagenta;
+}
